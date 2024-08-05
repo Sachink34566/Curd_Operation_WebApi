@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|c:\\users\\sachin kumar\\onedrive\\desktop\\ecommerce\\curd_opeation_project\\curd_dot_net_api\\curd_dot_net_api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|solutionrelative:curd_dot_net_api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|c:\\users\\sachin kumar\\onedrive\\desktop\\ecommerce\\curd_opeation_project\\curd_dot_net_api\\curd_dot_net_api\\data\\employeeres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|solutionrelative:curd_dot_net_api\\data\\employeeres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|c:\\users\\sachin kumar\\onedrive\\desktop\\ecommerce\\curd_opeation_project\\curd_dot_net_api\\curd_dot_net_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|solutionrelative:curd_dot_net_api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|c:\\users\\sachin kumar\\onedrive\\desktop\\ecommerce\\curd_opeation_project\\curd_dot_net_api\\curd_dot_net_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|solutionrelative:curd_dot_net_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|c:\\users\\sachin kumar\\onedrive\\desktop\\ecommerce\\curd_opeation_project\\curd_dot_net_api\\curd_dot_net_api\\data\\dpappcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8EF8892-AF4A-49AB-890D-84DDF266B6AD}|Curd_Dot_Net_Api\\Curd_Dot_Net_Api.csproj|solutionrelative:curd_dot_net_api\\data\\dpappcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DpappCon.cs",
+              "DocumentMoniker": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Data\\DpappCon.cs",
+              "RelativeDocumentMoniker": "Curd_Dot_Net_Api\\Data\\DpappCon.cs",
+              "ToolTip": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Data\\DpappCon.cs",
+              "RelativeToolTip": "Curd_Dot_Net_Api\\Data\\DpappCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:01:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "Curd_Dot_Net_Api\\Data\\Employee.cs",
+              "ToolTip": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Data\\Employee.cs",
+              "RelativeToolTip": "Curd_Dot_Net_Api\\Data\\Employee.cs",
+              "ViewState": "AQIAAAcAAACYmZmZmZkzwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:50:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Curd_Dot_Net_Api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Curd_Dot_Net_Api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACcAAAAAzszMzMz8vzsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:26:00.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRes.cs",
+              "DocumentMoniker": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Data\\EmployeeRes.cs",
+              "RelativeDocumentMoniker": "Curd_Dot_Net_Api\\Data\\EmployeeRes.cs",
+              "ToolTip": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Data\\EmployeeRes.cs",
+              "RelativeToolTip": "Curd_Dot_Net_Api\\Data\\EmployeeRes.cs",
+              "ViewState": "AQIAACQAAADg//////8nwDUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:22:51.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Curd_Dot_Net_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\SACHIN KUMAR\\OneDrive\\Desktop\\ecommerce\\Curd_Opeation_project\\Curd_Dot_Net_Api\\Curd_Dot_Net_Api\\Program.cs",
+              "RelativeToolTip": "Curd_Dot_Net_Api\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:13:31.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

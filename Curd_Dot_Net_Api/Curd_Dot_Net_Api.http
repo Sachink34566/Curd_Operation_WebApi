@@ -1,0 +1,6 @@
+@Curd_Dot_Net_Api_HostAddress = http://localhost:5162
+
+GET {{Curd_Dot_Net_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
